@@ -1,1 +1,2 @@
 # inheritance
+Bazı inheritance denemeleri.
